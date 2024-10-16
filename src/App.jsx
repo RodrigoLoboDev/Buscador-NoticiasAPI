@@ -3,7 +3,8 @@ import Formulario from './components/Formulario'
 import ListadoDeNoticias from './components/ListadoDeNoticias'
 import { NoticiasProvider } from './context/NoticiasProvider'
 
-function App() {
+
+function App() { 
 
   return (
     <NoticiasProvider>

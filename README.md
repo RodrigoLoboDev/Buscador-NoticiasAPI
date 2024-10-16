@@ -17,7 +17,7 @@ Este es el frontend de Buscador de Noticias, una aplicación web que te permite 
 
 ## 🎥 Prueba la Aplicación
 
-Puedes probar la aplicación en vivo visitando [este enlace en Netlify](https://tuenlace.netlify.app).
+Puedes probar la aplicación en vivo visitando [este enlace en Netlify](https://buscadornoticiasapi.netlify.app/).
 
 ## 📝 Funcionalidades Principales
 
@@ -38,7 +38,7 @@ src/
 1. Clona el repositorio:
 
 bash
-git clone https://github.com/RodrigoLoboDev/REST_API_FRONTEND-PRODUCTS
+git clone https://github.com/RodrigoLoboDev/Buscador-NoticiasAPI
 
 2. Instala las dependencias:
 
